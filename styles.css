@@ -1,0 +1,18 @@
+body{
+    background-color: #A4BE7B;
+}
+
+hr {
+    border-style: dotted;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+    border-width: 5px;
+    width: 5%;
+    color: black;
+  }
+
+.first{
+    margin-left: 36%;
+}
+
